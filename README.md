@@ -34,12 +34,26 @@
 
 👉 Backend API Routes: Backend API routes for handling JWT token management for secure authentication and image uploading, supporting seamless integration with the frontend.
 
-and many more, including code architecture and reusability
 
 
 
 
+Install the project dependencies using npm:
 
+npm install
+Set Up Environment Variables
+
+Create a new file named .env in the root of your project and add the following content:
+
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+NEXTAUTH_URL=
+NEXTAUTH_SECRET=
+CLOUDINARY_NAME=
+CLOUDINARY_KEY=
+CLOUDINARY_SECRET=
+GRAFBASE_API_URL=
+GRAFBASE_API_KEY=
 
 
 
