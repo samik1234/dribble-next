@@ -1,6 +1,6 @@
 
+![dribbble-full](https://github.com/samik1234/dribble-next/assets/82882143/9789d2bc-430f-4a96-bebb-6431458cd63a)
 
-![dribbble-full](https://github.com/samik1234/dribble-next/assets/82882143/e6bf80fa-0054-4990-9182-7b46cba92f9c)
 
 
 
