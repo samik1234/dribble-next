@@ -1,5 +1,5 @@
 
-![dribbble-full](https://github.com/samik1234/dribble-next/assets/82882143/9789d2bc-430f-4a96-bebb-6431458cd63a)
+![dribbble-full](https://github.com/samik1234/dribble-next/assets/82882143/6f565551-673f-4cbf-8bf4-4e9d57d2b2b2)
 
 
 
