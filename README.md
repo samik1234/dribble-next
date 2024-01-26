@@ -1,11 +1,10 @@
 
 
-![_abe88bce-faed-47ec-9df2-fc248a9a9901](https://github.com/samik1234/dribble-next/assets/82882143/f851aceb-2313-4437-93df-10c2e003ab27)
 
 
 
 
-![drib site](https://github.com/samik1234/dribble-next/assets/82882143/c83c3a96-e5b0-4c7e-8473-7f6b6fa94f9b)
+![OIP (3)](https://github.com/samik1234/dribble-next/assets/82882143/00800462-79e6-4d9c-83e7-b32b4389c9db)
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
