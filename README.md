@@ -1,5 +1,4 @@
-
-
+INTRODUCTION: A full stack Dribble clone developed using Next.js, GraphQL, Next Auth, TypeScript, and tailwindcss features all the necessary features of dribble from sharing and showcasing projects.
 
 
 ![dribbble-full](https://github.com/samik1234/dribble-next/assets/82882143/e6bf80fa-0054-4990-9182-7b46cba92f9c)
