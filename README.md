@@ -1,6 +1,7 @@
 
 
 
+![mockup](https://github.com/samik1234/dribble-next/assets/82882143/32959d4d-cb5c-4b77-a60d-4f540b018445)
 
 
 
