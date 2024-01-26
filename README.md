@@ -5,17 +5,8 @@
 
 
 
-First, run the development server:
+![drib site](https://github.com/samik1234/dribble-next/assets/82882143/c83c3a96-e5b0-4c7e-8473-7f6b6fa94f9b)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
