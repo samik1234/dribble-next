@@ -1,5 +1,4 @@
 
-![dribbble-full](https://github.com/samik1234/dribble-next/assets/82882143/6f565551-673f-4cbf-8bf4-4e9d57d2b2b2)
 
 
 
@@ -10,6 +9,14 @@
 🤖 INTRODUCTION 
 
  A full stack Dribble clone developed using Next.js, GraphQL, Next Auth, TypeScript, and tailwindcss features all the necessary features of dribble from sharing and showcasing projects.
+
+
+
+
+
+
+![dribbble-full](https://github.com/samik1234/dribble-next/assets/82882143/081ac939-014b-4fec-8d78-d6e89bb483aa)
+
 
 
 
