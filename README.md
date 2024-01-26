@@ -4,7 +4,6 @@
 
 
 
-![OIP (3)](https://github.com/samik1234/dribble-next/assets/82882143/00800462-79e6-4d9c-83e7-b32b4389c9db)
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
