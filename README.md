@@ -1,7 +1,6 @@
 
 
 
-![5771791](https://github.com/samik1234/dribble-next/assets/82882143/e57929e4-8fa9-4968-830e-432fde7bd4c3)
 
 
 
