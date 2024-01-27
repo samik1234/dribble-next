@@ -45,13 +45,29 @@ Set Up Environment Variables
 Create a new file named .env in the root of your project and add the following content:
 
 GOOGLE_CLIENT_ID=
+
+
 GOOGLE_CLIENT_SECRET=
+
+
 NEXTAUTH_URL=
+
+
 NEXTAUTH_SECRET=
+
+
 CLOUDINARY_NAME=
+
+
 CLOUDINARY_KEY=
+
+
 CLOUDINARY_SECRET=
+
+
 GRAFBASE_API_URL=
+
+
 GRAFBASE_API_KEY=
 
 
