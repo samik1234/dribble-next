@@ -1,9 +1,9 @@
-![mockup](https://github.com/samik1234/dribble-next/assets/82882143/4c6b87cd-1e1c-4485-b933-d5e3cac47655)
 
 
 
 
 
+![dribbble-full](https://github.com/samik1234/dribble-next/assets/82882143/6e3c52f3-a30d-4aa8-b311-5277214f182b)
 
 
 
