@@ -9,11 +9,18 @@
 
 🤖 INTRODUCTION 
 
+
  A full stack Dribble clone developed using Next.js, GraphQL, Next Auth, TypeScript, and tailwindcss features all the necessary features of dribble from sharing and showcasing projects.
 
 
 
+
+
+
+
+
 🔋 FEATURES
+
 
 
 👉 Modern Design Home Page: Features a clean and modern design resembling Dribbble, with a visually appealing interface showcasing project previews and navigation.
