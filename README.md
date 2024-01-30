@@ -10,6 +10,14 @@
 
 
 
+🤖 INTRODUCTION 
+
+
+ A full stack Dribble clone developed using Next.js, GraphQL, Next Auth, TypeScript, and tailwindcss features all the necessary features of dribble from sharing and showcasing projects.
+
+
+
+
 
 
 
