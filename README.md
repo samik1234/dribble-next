@@ -1,7 +1,7 @@
 
 
 
-![dribbble-full](https://github.com/samik1234/dribble-next/assets/82882143/485911fc-ee09-4bd3-afbe-291a08365ac3)
+![dribbble-full](https://github.com/samik1234/dribble-next/assets/82882143/485911fc-ee09-4bd3-afbe-291a08365ac3
 
 
 
