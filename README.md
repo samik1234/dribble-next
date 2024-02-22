@@ -1,6 +1,7 @@
 
 
 
+![mockup](https://github.com/samik1234/dribble-next/assets/82882143/805f7176-beab-45fd-86e8-e07dc77394cd)
 
 
 ![OIP (4)](https://github.com/samik1234/dribble-next/assets/82882143/94ba0c4a-0104-4803-90fa-3f1ce85c9abe)
