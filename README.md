@@ -66,6 +66,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Install the project dependencies using npm:
 
 npm install
