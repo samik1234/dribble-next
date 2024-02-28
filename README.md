@@ -78,7 +78,6 @@
 
 
 ## Set-up env
-Install the project dependencies using npm:
 
 npm install
 Set Up Environment Variables
@@ -93,7 +92,7 @@ Set Up Environment Variables
 
 
 
-
+##.env file
 
 Create a new file named .env in the root of your project and add the following content:
 
